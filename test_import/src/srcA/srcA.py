@@ -1,0 +1,2 @@
+def srcA():
+    return "toto"
